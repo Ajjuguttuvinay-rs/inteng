@@ -8,3 +8,9 @@ no problem -- all good
 wait -- hang on
 at the same time -- meanwhile
 finally -- eventually
+end -- terminate
+help -- assist
+firstly -- to begin with
+secondly -- in the next phase
+thirdly -- proceeding further
+lastly -- to conclude that
